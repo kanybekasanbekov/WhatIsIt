@@ -11,7 +11,7 @@ First image is taken, then it's center is cropped as square and resolution chang
 [Here is a link](https://drive.google.com/file/d/1kpsvyT1a3TWPt4yZkfBX1aOK5jbAPOvd/view?usp=sharing)
 
 ## Demo Video
-[Video](https://drive.google.com/file/d/1mW_cRn1LAl3-fmC7-QXfq5b9QtnbPxtF/view?usp=sharing)
+[Video](https://www.youtube.com/watch?v=oz6v_al72ko&feature=youtu.be)
 
 ## Demo GIF
 ![](assets/demo.gif)
