@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.soundcloud.android:android-crop:1.0.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\android-crop-1.0.1.aar\516c5b7f0448f4dec5586b849e0ae56c\AndroidManifest.xml:2:1-10:12
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.0.0.aar\1c620c99171a987b4b7c0b562bcd2c07\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1482ad3f5ec993f5aaf0510e6b957a00\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ceb2926ccf40520b01e3c89f7feea2cd\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\dd51cca6e91838c1644e8e17dbfcfc59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ecfad8c45639bebc83a8dbaf785d9bf1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1cb41ad7ae5aaf9e92345d7d0fbb8b13\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bc2c52b6293a8f254b398b3d9399f653\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ab6918e1193a4426406f73c9c0dc470a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\25121d1b01714bea84562ecb4d0599d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0fd5a7aaff8655c7cca463ae34f17aee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bbaa91ae110fc89fd97c83936242117a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fbf9d1028462654b886825d2aff0ea1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\153b31e142f6649054f6be2357f9565a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ff18b55a971fce820b1e434504873251\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a6fe41d93617154dfd84636156698d05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\754fa8a814e96413280a980c805a23f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\40f8236d084c99e78cf13a27040718c4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9e444a15eda65cd4c19e6ee6fb059b93\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\0f9d923b1076d113a1fe35eafb948379\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\21b17ce6d2a71fc787df17dc21c2c218\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1ddd2582f8252e6ec221e08c9ea1819f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\818bee1a367b563d48ee4935d7d01a2a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ecf401606e46926bf3a9a0e079e1f9f4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\eedf67f5285ca31025c801e033b9c37a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4e9afb9ad2dc2490326c1d3e690c3cc8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3fc9316c0503ebc723306d69d622862b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b90b562a3953163a00d918445ff55eef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6cfff5328fcf090cf7505c38645d77e7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:6:5-8:35
+	android:required
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:8:9-32
+	android:name
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:7:9-47
+uses-feature#android.hardware.camera.any
+ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:10:9-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:13:22-62
+application
+ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:15:5-32:19
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.0.0.aar\1c620c99171a987b4b7c0b562bcd2c07\AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.0.0.aar\1c620c99171a987b4b7c0b562bcd2c07\AndroidManifest.xml:8:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ceb2926ccf40520b01e3c89f7feea2cd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ceb2926ccf40520b01e3c89f7feea2cd\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\40f8236d084c99e78cf13a27040718c4\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\40f8236d084c99e78cf13a27040718c4\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9e444a15eda65cd4c19e6ee6fb059b93\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9e444a15eda65cd4c19e6ee6fb059b93\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\40f8236d084c99e78cf13a27040718c4\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:21:9-40
+activity#com.mobile.detection.Start
+ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:name
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:22:19-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.mobile.detection.Classify
+ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:29:9-75
+	android:name
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:29:19-63
+activity#com.soundcloud.android.crop.CropImageActivity
+ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:31:9-118
+	android:screenOrientation
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:31:80-116
+	android:name
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml:31:19-79
+uses-sdk
+INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+MERGED from [com.soundcloud.android:android-crop:1.0.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\android-crop-1.0.1.aar\516c5b7f0448f4dec5586b849e0ae56c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.soundcloud.android:android-crop:1.0.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\android-crop-1.0.1.aar\516c5b7f0448f4dec5586b849e0ae56c\AndroidManifest.xml:6:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.0.0.aar\1c620c99171a987b4b7c0b562bcd2c07\AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:2.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.0.0.aar\1c620c99171a987b4b7c0b562bcd2c07\AndroidManifest.xml:5:5-6:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1482ad3f5ec993f5aaf0510e6b957a00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\1482ad3f5ec993f5aaf0510e6b957a00\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ceb2926ccf40520b01e3c89f7feea2cd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\ceb2926ccf40520b01e3c89f7feea2cd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\dd51cca6e91838c1644e8e17dbfcfc59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\dd51cca6e91838c1644e8e17dbfcfc59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ecfad8c45639bebc83a8dbaf785d9bf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\ecfad8c45639bebc83a8dbaf785d9bf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1cb41ad7ae5aaf9e92345d7d0fbb8b13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1cb41ad7ae5aaf9e92345d7d0fbb8b13\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bc2c52b6293a8f254b398b3d9399f653\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\bc2c52b6293a8f254b398b3d9399f653\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ab6918e1193a4426406f73c9c0dc470a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\ab6918e1193a4426406f73c9c0dc470a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\25121d1b01714bea84562ecb4d0599d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\25121d1b01714bea84562ecb4d0599d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0fd5a7aaff8655c7cca463ae34f17aee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0fd5a7aaff8655c7cca463ae34f17aee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bbaa91ae110fc89fd97c83936242117a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\bbaa91ae110fc89fd97c83936242117a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fbf9d1028462654b886825d2aff0ea1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\fbf9d1028462654b886825d2aff0ea1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\153b31e142f6649054f6be2357f9565a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\153b31e142f6649054f6be2357f9565a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ff18b55a971fce820b1e434504873251\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\ff18b55a971fce820b1e434504873251\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a6fe41d93617154dfd84636156698d05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a6fe41d93617154dfd84636156698d05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\754fa8a814e96413280a980c805a23f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\754fa8a814e96413280a980c805a23f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\40f8236d084c99e78cf13a27040718c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\40f8236d084c99e78cf13a27040718c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9e444a15eda65cd4c19e6ee6fb059b93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9e444a15eda65cd4c19e6ee6fb059b93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\0f9d923b1076d113a1fe35eafb948379\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\0f9d923b1076d113a1fe35eafb948379\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\21b17ce6d2a71fc787df17dc21c2c218\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\21b17ce6d2a71fc787df17dc21c2c218\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1ddd2582f8252e6ec221e08c9ea1819f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\1ddd2582f8252e6ec221e08c9ea1819f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\818bee1a367b563d48ee4935d7d01a2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\818bee1a367b563d48ee4935d7d01a2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ecf401606e46926bf3a9a0e079e1f9f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ecf401606e46926bf3a9a0e079e1f9f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\eedf67f5285ca31025c801e033b9c37a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\eedf67f5285ca31025c801e033b9c37a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4e9afb9ad2dc2490326c1d3e690c3cc8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\4e9afb9ad2dc2490326c1d3e690c3cc8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3fc9316c0503ebc723306d69d622862b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3fc9316c0503ebc723306d69d622862b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b90b562a3953163a00d918445ff55eef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b90b562a3953163a00d918445ff55eef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6cfff5328fcf090cf7505c38645d77e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\artlab\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\6cfff5328fcf090cf7505c38645d77e7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+		MERGED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\artlab\Documents\GitHub\MobileComputing\app\src\main\AndroidManifest.xml
