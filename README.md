@@ -1,7 +1,7 @@
 # Object Detection App For Visually Impaired Users
 
 ## Descriptions
-This app made for visually impaired users. I believe that this app is going to make make the life of blind and visually impaired users easier. App is quite intuitive and very easy to use. It detects object in a image taken by a user and gives output as audio message, ex: *"This is a wallet"*
+This app made for visually impaired users. I believe that this app is going to make the life of blind and visually impaired users easier. App is quite intuitive and very easy to use. It detects object in a image taken by a user and gives output as audio message, ex: *"This is a wallet"*
 
 ## Implementation
 For the implementation of this app Camera 2.0 API, TextToSpeech API and [Pretrained Inception model](https://www.tensorflow.org/lite/guide/hosted_models) are used.  
